@@ -105,7 +105,7 @@ body {
     }
 ```
 
-![Untitled](border-radius%20box-shadow%20text-overflow%207b4ab721dfdc4c8da0e909b71ad51105/Untitled.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59784580-506d-4a1f-a080-3d6d7be06eed/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071029Z&X-Amz-Expires=86400&X-Amz-Signature=4099db7164f905b32f78bad463cfb82aba81c90a6be15bf62574542a6afbe51f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 <aside>
 💡 text-overflow는 overflow와 whtie-space와 같이 사용한다.

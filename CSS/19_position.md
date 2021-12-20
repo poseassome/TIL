@@ -72,7 +72,7 @@
 </html>
 ```
 
-![static](position%208e3763e91c4a48fca2aa68527922f051/Untitled.png)
+![static](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1304c810-e4ae-4af7-b5bb-a57ef485d495/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071334Z&X-Amz-Expires=86400&X-Amz-Signature=a258c03600caaed5b3e0dc4dfff9bc06214823808012f18d68d0613cdae181b7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 static
 
@@ -146,7 +146,7 @@ static
 </html>
 ```
 
-![content 뒤에 nav가 있다.](position%208e3763e91c4a48fca2aa68527922f051/Untitled%201.png)
+![content 뒤에 nav가 있다.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ed32c67-983c-4fca-9bb6-c402c7a174e9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071346Z&X-Amz-Expires=86400&X-Amz-Signature=4377a4dba81999352377fa31bd5ea7a515cb8c84d3a11cf7d180466568433042&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 content 뒤에 nav가 있다.
 
@@ -165,7 +165,7 @@ content 뒤에 nav가 있다.
 자식에게는 부모의 십 자리가 부여됨.
 - 하위요소(자식)의 순서를 바꾸고 싶으면 그의 부모의 z-index를 수정한다.
 
-![참고 그림](position%208e3763e91c4a48fca2aa68527922f051/Untitled%202.png)
+![참고 그림](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6b771838-9808-4a7f-95bf-690bc66d7647/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071355Z&X-Amz-Expires=86400&X-Amz-Signature=14e9b048e84f297b76b55817a3d312385439886496a09614fd76dfcc6600b42b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 참고 그림
 
@@ -240,7 +240,7 @@ content 뒤에 nav가 있다.
 </html>
 ```
 
-![relative](position%208e3763e91c4a48fca2aa68527922f051/Untitled%203.png)
+![relative](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f60fcf9e-4be1-46d6-9665-a9055dbabe44/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071405Z&X-Amz-Expires=86400&X-Amz-Signature=ca9598bda3007fe6fd517eab99b4fe0a617e5bfba25a04e8212651ef4c8a46b9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 relative
 
@@ -253,7 +253,7 @@ relative
 -상위 요소 중 position 속성을 가지는 요소가 없는 경우
 document가 기준
 
-![Untitled](position%208e3763e91c4a48fca2aa68527922f051/Untitled%204.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ec2366a-7249-4105-84aa-ee07566b9099/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071414Z&X-Amz-Expires=86400&X-Amz-Signature=4fa872ee43bf4f0daa0660c4f63806115f540891fe3892fe0e3dbc7f8ddd9e78&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 분홍색 div에 left: 100px를 주면 얘는 position이 존재한다는 거다.
 position: relative 면 부모요소로부터 left 이동
@@ -395,7 +395,7 @@ position이 있는 상위요소(가장 가까운 요소)가 있으면 그거 기
 </html>
 ```
 
-![가장 상단 header는 제자리에 있다.](position%208e3763e91c4a48fca2aa68527922f051/Untitled%205.png)
+![가장 상단 header는 제자리에 있다.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3107369d-c6ba-47aa-a3f8-72245b10c009/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071427Z&X-Amz-Expires=86400&X-Amz-Signature=9b9d32b895f1d08a5b4a779f73f4b36effa27667f9da0c6142821403a5799e60&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 가장 상단 header는 제자리에 있다.
 

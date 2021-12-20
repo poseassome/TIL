@@ -64,7 +64,7 @@
 </p>
 ```
 
-![세부 옵션들은 해당 브라우저가 지원해준다.](input%20-2%20c69480907fff43c48b9c46dd6d39b22f/Untitled.png)
+![세부 옵션들은 해당 브라우저가 지원해준다.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9502b173-07b2-4e3e-9f33-46b15efa99b2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072112Z&X-Amz-Expires=86400&X-Amz-Signature=b3bedb2936558d7fe42f400233b5bac7973dc1fa21884b1a320cd9e78993d728&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 세부 옵션들은 해당 브라우저가 지원해준다.
 
@@ -84,7 +84,7 @@
 </p>
 ```
 
-![e-mail 형식을 인지하기 때문에 알림창이 뜬다](input%20-2%20c69480907fff43c48b9c46dd6d39b22f/Untitled%201.png)
+![e-mail 형식을 인지하기 때문에 알림창이 뜬다](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/35dae1cf-ae65-4694-a2a1-5e1619b35b6b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072120Z&X-Amz-Expires=86400&X-Amz-Signature=a6ba09e47f7433bdef3fef903759cac39cac9e859253b1ef5a94767c2a94abc4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 e-mail 형식을 인지하기 때문에 알림창이 뜬다
 
@@ -105,7 +105,7 @@ e-mail 형식을 인지하기 때문에 알림창이 뜬다
 </p>
 ```
 
-![작성은 http:// ~](input%20-2%20c69480907fff43c48b9c46dd6d39b22f/Untitled%202.png)
+![작성은 http:// ~](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52020ee8-9209-465f-a951-aa06a0b0b649/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072130Z&X-Amz-Expires=86400&X-Amz-Signature=1c169e9c51449b4a2dddfa313c536601c3d70fcfdb14c4f04c82d33610dafc35&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 작성은 http:// ~
 
@@ -132,7 +132,7 @@ e-mail 형식을 인지하기 때문에 알림창이 뜬다
 </p>
 ```
 
-![Untitled](input%20-2%20c69480907fff43c48b9c46dd6d39b22f/Untitled%203.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a412f489-1b60-43a4-b111-dcee5085ac34/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072139Z&X-Amz-Expires=86400&X-Amz-Signature=0e3dc3306e220057397b296fea7750e2607b6573bcf90431260a49a2c02a6bd3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ---
 
@@ -150,7 +150,7 @@ e-mail 형식을 인지하기 때문에 알림창이 뜬다
 </p>
 ```
 
-![min, max 범위의 숫자만 유효하다.](input%20-2%20c69480907fff43c48b9c46dd6d39b22f/Untitled%204.png)
+![min, max 범위의 숫자만 유효하다.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b3b2db43-3982-4491-8d52-5ab65fd10342/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072148Z&X-Amz-Expires=86400&X-Amz-Signature=9f9fc314fe8823055dc02110748081b180b5e74b06f0fae5eaeffc1e67cfcc4d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 min, max 범위의 숫자만 유효하다.
 
@@ -170,7 +170,7 @@ min, max 범위의 숫자만 유효하다.
 </p>
 ```
 
-![Untitled](input%20-2%20c69480907fff43c48b9c46dd6d39b22f/Untitled%205.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/232da60f-3122-4678-926d-213750285a4a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072159Z&X-Amz-Expires=86400&X-Amz-Signature=8323a587b89a824c2d93212ef237ed9d899325619c23bfb334312caaa943e694&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ---
 
@@ -188,7 +188,7 @@ min, max 범위의 숫자만 유효하다.
 </p>
 ```
 
-![Untitled](input%20-2%20c69480907fff43c48b9c46dd6d39b22f/Untitled%206.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4c5f1e43-616d-4cc1-af46-b76a8acaafe6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072209Z&X-Amz-Expires=86400&X-Amz-Signature=df597f987738c30e7e32da1004303cd7cb8f359794f9cdc40049c2aaae601479&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ---
 
@@ -215,6 +215,6 @@ min, max 범위의 숫자만 유효하다.
 </p>
 ```
 
-![Untitled](input%20-2%20c69480907fff43c48b9c46dd6d39b22f/Untitled%207.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/80714d21-57d6-407b-9783-f322995ae39f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072218Z&X-Amz-Expires=86400&X-Amz-Signature=99a3a3d90c28876ba0dd41f46a6dcb15bdcf14ef0ffbbc1776060a9d96f6b157&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ---

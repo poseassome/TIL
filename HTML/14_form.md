@@ -8,7 +8,7 @@
 **사용자 input date → process → DB에 처리해줘 요청(inset/update/delete/select)
  → 처리한 data를 process에 전달 → 결과물 도출(input에 표현될 수도 있음)**
 
-![Untitled](form%20e5f9d0b6101149cba1e5cee37fd7ee45/Untitled.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7aef46f3-f021-4d1c-9917-c1158afb518b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071737Z&X-Amz-Expires=86400&X-Amz-Signature=92925f088c15ad076a6cfac960d9f11745b6940e60b9a0740ff1b8e75cb34132&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 Front-End : 사용자 눈에 보이는 부분  //input, result
                    원래의 의미, 사용자에게 보여지는 부분을 편리하게 사용하도록 만드는 것인데
@@ -84,7 +84,7 @@ Back-End : 사용자에게 보여지지 않는 부분  //process, DB
 </form>
 ```
 
-![Untitled](form%20e5f9d0b6101149cba1e5cee37fd7ee45/Untitled%201.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bcaf5a52-9d8f-49bb-a07c-d8b435af693b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071753Z&X-Amz-Expires=86400&X-Amz-Signature=1d21afb36bd05c3c7562d0a1444fee299e2daed07cf4d325c1fa4596098135f5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 위와 같이 옵션 선택 창이 생김
 
@@ -105,7 +105,7 @@ Back-End : 사용자에게 보여지지 않는 부분  //process, DB
 </p>
 ```
 
-![Untitled](form%20e5f9d0b6101149cba1e5cee37fd7ee45/Untitled%202.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9af1e2d9-b1cd-42ca-ba3f-ce02303898ad/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071803Z&X-Amz-Expires=86400&X-Amz-Signature=3f62d4bf1c838939acbed6bee46e4b60e7021c51a493e6b6ca48f2ba01006dd0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 <select>에 속성 'size'를 적용하면 multiple 속성을 사용할 수 있어서
 다중 옵션 선택이 가능하다.
@@ -131,7 +131,7 @@ Back-End : 사용자에게 보여지지 않는 부분  //process, DB
 </p>
 ```
 
-![Untitled](form%20e5f9d0b6101149cba1e5cee37fd7ee45/Untitled%203.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fbc96718-b2d2-496d-afba-4dd1e6f61d53/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071812Z&X-Amz-Expires=86400&X-Amz-Signature=f6e6b331bb1e7273bf50be1e6857ba15c3651b2bee3e877b4407ef09f497c6dd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 <optgroup>을 사용하면 <option>을 그룹화하여 나타낼 수 있다.
 
@@ -144,7 +144,7 @@ Back-End : 사용자에게 보여지지 않는 부분  //process, DB
 </p>
 ```
 
-![Untitled](form%20e5f9d0b6101149cba1e5cee37fd7ee45/Untitled%204.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b881166f-bc8d-4d8d-af5a-3e653efcbbec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071821Z&X-Amz-Expires=86400&X-Amz-Signature=851f48352f0f92ccc7ceb22ec19dc13103a28c3c0bcc1a3884789f7bc1485b39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 <textara>는 여러 줄을 입력할 수 있는 창으로 한 줄 입력칸은 <input>으로 작성한다.
 'cols'는 가로로 들어가는 글자 수, 'rows'는 창의 높이를 표시한다.

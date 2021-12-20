@@ -8,7 +8,7 @@
 
 ---
 
-![위 예시의 각 이미지 파일을 불러 오려면 다음과 같다.](img%20f230d8b124ce4ca087d6a4f5c36dbeb3/Untitled.png)
+![위 예시의 각 이미지 파일을 불러 오려면 다음과 같다.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ae830424-fe37-4fde-8b72-d2f9a88804b5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071710Z&X-Amz-Expires=86400&X-Amz-Signature=8043f5f8aeb392ca5d47915b1cb119cd741e3f3d8b386d946d3f39076e1a53a3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 위 예시의 각 이미지 파일을 불러 오려면 다음과 같다.
 

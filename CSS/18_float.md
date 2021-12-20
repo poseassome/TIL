@@ -98,7 +98,7 @@
 
 1. float된 content뒤의 content가 이동하지 않음
 
-![clear의 개념:  float으로 생긴 빈공간을 막아서 그 다음 컨텐츠가 이동하지 않음](float%20c31c5f8d24a44824b94878fa81b80828/Untitled.png)
+![clear의 개념:  float으로 생긴 빈공간을 막아서 그 다음 컨텐츠가 이동하지 않음](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7996c9eb-9cad-4cee-a29c-0dc80351b347/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071312Z&X-Amz-Expires=86400&X-Amz-Signature=cbf7a53108ac2ff47ec2f7961f0ad19b13d283483e9a2850da81b73b6a09210b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 clear의 개념:  float으로 생긴 빈공간을 막아서 그 다음 컨텐츠가 이동하지 않음
 

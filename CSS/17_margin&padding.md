@@ -124,7 +124,7 @@ margin : all
 
 ## box-sizing
 
-![Box Model](margin%20&%20padding%20ed7eb262950c41d89b4d3cd22003e480/Untitled.png)
+![Box Model](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69ebe1bd-5d2d-4374-9365-c9074d76c906/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071250Z&X-Amz-Expires=86400&X-Amz-Signature=aa6c20dec7a20ec081ae739b6544471b9a7d32248cce66aee4b1703fed985344&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 Box Model
 

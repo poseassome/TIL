@@ -1,7 +1,7 @@
 # Semantic tag
 작성일시: 2021년 8월 24일 오후 4:33
 
-![Untitled](Semantic%20tag%20b1345bd4ea1247b8a6630973d36faa3e/Untitled.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/480e0b72-dac5-41a3-99e6-add7d69b35a4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071637Z&X-Amz-Expires=86400&X-Amz-Signature=83c06ed9c35962da81798ec33dce9c917dc74841aa2cc78756e030d5d2d06c68&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 해당 구조를 div와 시맨틱 태그로 표현했을 때
 
@@ -207,7 +207,7 @@
 
 </aside>
 
-![content의 관계에 따라 사용하는 semantice tag가 달라진다.](Semantic%20tag%20b1345bd4ea1247b8a6630973d36faa3e/Untitled%201.png)
+![content의 관계에 따라 사용하는 semantice tag가 달라진다.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fe5bc9d3-7882-4fe3-8189-7a04df31077d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071654Z&X-Amz-Expires=86400&X-Amz-Signature=190003b091e42149a8d1854d0b61f1c92039855d3b2321373ec10ee6c29c18bd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 content의 관계에 따라 사용하는 semantice tag가 달라진다.
 

@@ -38,7 +38,7 @@ all로 지정되면 모든 속성 영향
     }
 ```
 
-![회전하며 투명도가 낮아짐](transition%20animation%20c34ef02c211e4fb5a57986a18bd9a55c/Untitled.png)
+![회전하며 투명도가 낮아짐](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8d84219-0f97-4672-b17f-173c071030d9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071110Z&X-Amz-Expires=86400&X-Amz-Signature=74a0d962e26b2c8d6d521bf100085e4c7f649e643f0ceace4dfbef6054ed2763&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 회전하며 투명도가 낮아짐
 
@@ -63,7 +63,7 @@ all로 지정되면 모든 속성 영향
     }
 ```
 
-![이미지가 칸을 넘지않고 커지며 투명도가 낮아짐](transition%20animation%20c34ef02c211e4fb5a57986a18bd9a55c/Untitled%201.png)
+![이미지가 칸을 넘지않고 커지며 투명도가 낮아짐](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bb42526f-ab4f-4c34-a058-938ffda7d0a4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071119Z&X-Amz-Expires=86400&X-Amz-Signature=46fa6684ea8881e9b87db76dcf09362a2f2b8559e4224b0b5ec14c344ac0b5bb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 이미지가 칸을 넘지않고 커지며 투명도가 낮아짐
 
@@ -119,7 +119,7 @@ img {
     }
 ```
 
-![Untitled](transition%20animation%20c34ef02c211e4fb5a57986a18bd9a55c/Untitled%202.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/11854ebb-d3ec-478a-b930-2755693654a4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071131Z&X-Amz-Expires=86400&X-Amz-Signature=ab8eaaeb405cfadf9474d6a24dc7c0dd55458a3fa29488391661602607846adf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 infinite : 무한대로 반복
 
