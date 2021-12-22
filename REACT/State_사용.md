@@ -1,6 +1,4 @@
 # state 사용
-
-복습: No
 작성일시: 2021년 12월 21일 오후 11:47
 
 # state란
@@ -43,26 +41,26 @@
 ### counter
 
 1. count가 될 숫자를 변수로 지정한다.
-    
+
     `let counter = 0;`
-    
+
     변수를 사용하려면 필요한 자리에 {변수}를 작성한다.
-    
+
     ```html
     <div>
       <h3>Total clicks: {counter}</h3>
       <button>click me</button>
     </div>
     ```
-    
+
 
 1. 클릭 시 실행시킬 함수를 작성한다.
 `<button>`에 `onclick` 이벤트를 준다.
-    
+
     ```html
     <!DOCTYPE html>
     <html>
-    
+
     <body>
       <div id="root"></div>
     </body>
@@ -83,21 +81,21 @@
         );
       ReactDOM.render(<Container />, root);
     </script>
-    
+
     </html>
     ```
-    
+
 
 하지만 이를 실행 하면 count 숫자가 올라가지 않고 0인 상태이다.
 
 - 코드는 순서대로 실행되는데 지금 함수(`countUp`)는 바로 실행안되고 불러야 실행된다.
 그럼 당장에 실행되고 있는건 ReactDOM.render() 이다.
-    
+
     container를 렌더링하고 root에 담는데,
     렌더링한 container는 counter 값을 0으로 가진다.
     => 이제 막 페이지가 로드됐으니까.
     ==> **★어디에도 UI를 새로고침 해주는 코드가 없음**
-    
+
 
 counter가 증가할 때마다 rerendering을 해줘야 한다.
 
@@ -195,7 +193,7 @@ const [myfood1, myfood2] = food;
     // const [counter, modifier] = React.useState(0);
     const [counter, setCounter] = React.useState(0);
     const onClick = () => {
-      setCounter(counter + 1);    
+      setCounter(counter + 1);
 		}
     return (
       <div>
