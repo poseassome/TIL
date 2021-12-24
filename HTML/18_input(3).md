@@ -1,15 +1,14 @@
-# <input>-3
+# `<input>`-3
 작성일시: 2021년 8월 26일 오후 5:06
 
 > input element의 새로운 attribute
-
-~xhtml : <tag property ="value">
-HTML5 : <element attribute ="value">
-
-1. placeholder
-2. autofocus
-3. required
 >
+> ~xhtml : `<tag property ="value">`<br/>
+> HTML5 : `<element attribute ="value">`
+>
+> 1. placeholder
+> 2. autofocus
+> 3. required
 
 ---
 
@@ -27,7 +26,7 @@ HTML5 : <element attribute ="value">
 </p>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3a3be49e-5788-4ec7-b980-45fe5f7d7c3e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072234Z&X-Amz-Expires=86400&X-Amz-Signature=0ee775dfcd3f2e475d03a2c048aee043905b84f495d81f3bff39bfb92ea8a0a8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](../images/input3_1.png)
 
 ---
 
@@ -50,11 +49,11 @@ HTML5 : <element attribute ="value">
 </p>
 ```
 
-![페이지를 열면 지정 위치에 커서가 있다.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5db998ab-6613-4cdf-b6ba-8fa6d8115f2a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072244Z&X-Amz-Expires=86400&X-Amz-Signature=034e9bc7eb1b62c660697b21653fd344729a31bcd9f1a26dd1b8bcb42dee64cd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![페이지를 열면 지정 위치에 커서가 있다.](../images/input3_2.png)
 
 페이지를 열면 지정 위치에 커서가 있다.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5172afd8-5bc9-440d-8660-5888b92c7d5e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072328Z&X-Amz-Expires=86400&X-Amz-Signature=cebada66a47877a62057676d25e38a0e3e311f364e26b6a05006bb88d43c1699&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](../images/input3_3.png)
 
 ---
 
@@ -78,15 +77,15 @@ HTML5 : <element attribute ="value">
 </p>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4542587d-5d02-4cb6-9570-2d409100e3c2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072252Z&X-Amz-Expires=86400&X-Amz-Signature=cbb1613c139d52699c201c1dd0a815d20840d63de4d4765da8d038e44776fdc6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](../images/input3_4.png)
 
 ---
 
 > 여기에 웹 접근성이나 표준성을 향상시키기위한 방법이 더 있음
-
----------------------접근성 향상 마크업 시---------------------
-5. <input> 요소들은 <label>과 함께 사용
-6. <input> 요소들은 <fieldset>이나 <div>안에 작성
+>
+>---------------------접근성 향상 마크업 시---------------------<br/>
+>5. `<input>` 요소들은 `<label>`과 함께 사용<br/>
+>6. `<input>` 요소들은 `<fieldset>`이나 `<div>`안에 작성
 >
 
 ```html
@@ -143,6 +142,6 @@ HTML5 : <element attribute ="value">
   </form>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1463fc96-e5c3-4cc9-ab31-10af12f59121/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T072302Z&X-Amz-Expires=86400&X-Amz-Signature=3a55a24f8a94f745cfb30e0c6d19d45a668bf69feb008a3ab7202424bdf9846a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](../images/input3_5.png)
 
 ---

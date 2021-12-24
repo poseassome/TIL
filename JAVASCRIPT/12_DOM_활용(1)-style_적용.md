@@ -5,8 +5,8 @@
 
 색상을 입력하고 버튼을 누르면 해당 색상으로 text의 색이 바뀐다.
 
-1. <script>에서 기능의 형태를 작성한다.
-2. <body>에서 <button>에 eventhandler를 준다. `onclick="changeColor()"`
+1. `<script>`에서 기능의 형태를 작성한다.
+2. `<body>`에서 `<button>`에 eventhandler를 준다. `onclick="changeColor()"`
 3. 기능에 참여하는 태그가 어떤 것인지 파악하고 id를 부여한다.  `<p>`  `<input>`
 4. 정의한 function 내부 동작을 작성한다.
     - 사용자로부터 입력받은 값을 사용하기 위해 변수로 선언한다.
@@ -57,8 +57,8 @@ function changeColor() {
 
 버튼에 따라 각각 다른 색상으로 text를 변하게 한다.
 
-1. <script>에서 기능의 형태를 작성한다.
-2. <body>에서 <button>에 eventhandler를 준다. `onclick="redColor()"`
+1. `<script>`에서 기능의 형태를 작성한다.
+2. `<body>`에서 `<button>`에 eventhandler를 준다. `onclick="redColor()"`
 3. 기능에 참여하는 태그가 어떤 것인지 파악하고 id를 부여한다.  `<p>`
 4. 정의한 function 내부 동작을 작성한다.
     - 색이 바뀌어야 하는 text를 메소드로 지정하여 변수로 선언한다.
@@ -105,9 +105,9 @@ function greenColor() {
 
 버튼에 따라 각각 다른 색상으로 text를 변하게 한다.
 
-1. <script>에서 기능의 형태를 작성한다.
+1. `<script>`에서 기능의 형태를 작성한다.
     - 하나의 함수를 작성하고 매개변수 `g_color`를 사용하여 각각 다른 색을 출력하게 한다.
-2. <body>에서 <button>에 eventhandler를 준다. `onclick="redColor()"`
+2. `<body>`에서 `<button>`에 eventhandler를 준다. `onclick="redColor()"`
 3. eventhandler의 함수에서 `(' ')`안에 사용할 변수를 작성한다.
 4. 기능에 참여하는 태그가 어떤 것인지 파악하고 id를 부여한다.  `<p>`
 5. 정의한 function 내부 동작을 작성한다.
