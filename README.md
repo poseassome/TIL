@@ -111,6 +111,8 @@
 - [State 사용-counter](./REACT/State_사용_counter.md)
 - [React 사용-unit converter](./REACT/State_사용_unitconversion.md)
 - [Props 기초](./REACT/Props_기초.md)
+- [React.memo(), propTypes 사용](./REACT/Memo,PropTypes_사용.md)
+- [create-react-app 설치](./REACT/React_설치.md)
 
 ## GIT
 - [Git 기본](./GIT/git_기본.md)
