@@ -113,6 +113,7 @@
 - [Props 기초](./REACT/Props_기초.md)
 - [React.memo(), propTypes 사용](./REACT/Memo,PropTypes_사용.md)
 - [create-react-app 설치](./REACT/React_설치.md)
+- [useEffect( ) / Cleanup function](./REACT/Effect,Cleanup_function.md)
 
 ## GIT
 - [Git 기본](./GIT/git_기본.md)
