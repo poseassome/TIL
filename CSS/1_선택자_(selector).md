@@ -57,41 +57,41 @@
 
 ```css
 h1 {
-      color: red;
-    }
+  color: red;
+}
 
-    /* 스타일을 적용할 때 웬만하면 id는 쓰지 않음 */
-    /* 주로 개발자들이 사용함 */
-    /* #id: 해당 id를 가지는 요소를 선택 */
+/* 스타일을 적용할 때 웬만하면 id는 쓰지 않음 */
+/* 주로 개발자들이 사용함 */
+/* #id: 해당 id를 가지는 요소를 선택 */
 #warning-header {
-      color: orange;
-    }
+  color: orange;
+}
 
-    /* class: 요소들간의 동일한 이름 그룹 */
-    /* .클래스명: 해당 class명을 가지는 요소를 선택 */
+/* class: 요소들간의 동일한 이름 그룹 */
+/* .클래스명: 해당 class명을 가지는 요소를 선택 */
 .primary {
-      color: green;
-    }
+  color: green;
+}
 ```
 
 ```css
 /* 태그.클래스명 */
 /* 해당 태그에 해당 클래스가 있는 것만 */
 p.text-green {
-      color: green;
-    }
+  color: green;
+}
 ```
 
 ```css
 /* 부모>자손(자식) */
 ul>li {
-      background-color: green;
-    }
+  background-color: green;
+}
 
 /* 클래스선택자와 자손(자식)선택자 응용 */
 .menu>li {
-      color: white;
-    }
+  color: white;
+}
 
 /* 부모>자손(부모)>자손>..>..>..> */
 /* .menu>li>a { */
@@ -99,8 +99,8 @@ ul>li {
 /* 후손 선택자 */
 /* 조상 후손 */
 .menu a {
-      color: antiquewhite;
-    }
+  color: antiquewhite;
+}
 ```
 
 ---

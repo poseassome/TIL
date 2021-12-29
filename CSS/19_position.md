@@ -8,13 +8,13 @@
 
 - **위치 속성**
     1. top / right / bottom / left
-    2. position 속성이 없는 경우 이동 불가
+    2. position 속성이 없는 경우 이동 불가<Br/>
     (값이 static인 경우 제외)
-    3. right, bottom은 position값이 absolute, fixed, sticky인 경우 사용 가능
-    -position: absolute;
-      right: Npx (o)
-    -posittion: relative;
-      right: Npx (x)
+    3. right, bottom은 position값이 absolute, fixed, sticky인 경우 사용 가능<Br/>
+        - position: absolute;<br/>
+          right: Npx (o)
+        - posittion: relative;<Br/>
+          right: Npx (x)
     4. 기준의 속성명 위치에서 대상의 속성명 위치까지의 거리
 
 ---
@@ -22,13 +22,11 @@
 ## position 속성값
 
 > **1.  static**
-
   1) 기본값
   2) 지정된 요소를 일반 요소(p, h 등)처럼 사용
   3) 위치, 레이어 변경 불가
   4) 태그가 작성된 순서대로 배치
   5) margin: auto  사용가능
->
 
 ```html
 <!DOCTYPE html>
@@ -72,7 +70,7 @@
 </html>
 ```
 
-![static](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1304c810-e4ae-4af7-b5bb-a57ef485d495/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071334Z&X-Amz-Expires=86400&X-Amz-Signature=a258c03600caaed5b3e0dc4dfff9bc06214823808012f18d68d0613cdae181b7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![static](../images/position_1.png)
 
 static
 
@@ -83,10 +81,9 @@ static
   3) margin: auto 사용 불가 (but, 가운데 정렬은 할 수 있음)
   4) 위치, 레이어 이동 가능
 
--요소가 inline이면 inline-block으로 바꿔서 이동함
--float처럼 위로 뜨는 개념이다.
+- 요소가 inline이면 inline-block으로 바꿔서 이동함
+- float처럼 위로 뜨는 개념이다.<Br/>
  float / position: absolute / position: fixed
->
 
 ```html
 <!DOCTYPE html>
@@ -146,9 +143,11 @@ static
 </html>
 ```
 
-![content 뒤에 nav가 있다.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ed32c67-983c-4fca-9bb6-c402c7a174e9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071346Z&X-Amz-Expires=86400&X-Amz-Signature=4377a4dba81999352377fa31bd5ea7a515cb8c84d3a11cf7d180466568433042&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![content 뒤에 nav가 있다.](../images/position_2.png)
 
 content 뒤에 nav가 있다.
+
+<br/>
 
 ### 레이어
 
@@ -161,13 +160,15 @@ content 뒤에 nav가 있다.
 7. position 속성과 함께 사용
 
 - 형제 요소일 때, z-index가 높으면 앞에 위치함
-- 부모-자식관계에서 부모는 십의 자리, 자식은 일의 자리다.
+- 부모-자식관계에서 부모는 십의 자리, 자식은 일의 자리다.<br/>
 자식에게는 부모의 십 자리가 부여됨.
 - 하위요소(자식)의 순서를 바꾸고 싶으면 그의 부모의 z-index를 수정한다.
 
-![참고 그림](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6b771838-9808-4a7f-95bf-690bc66d7647/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071355Z&X-Amz-Expires=86400&X-Amz-Signature=14e9b048e84f297b76b55817a3d312385439886496a09614fd76dfcc6600b42b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![참고 그림](../images/position_3.png)
 
 참고 그림
+
+<br/>
 
 > **3. relative**
 
@@ -177,12 +178,10 @@ content 뒤에 nav가 있다.
   4) margin: auto 사용 가능
   5) 다른 요소의 영향 있음
 
-  -absolute의 중심점은 모두가 웹페이지의 왼쪽 최상단이지만
+  - absolute의 중심점은 모두가 웹페이지의 왼쪽 최상단이지만<br/>
    relative는 각 요소의 시작위치의 왼쪽 최상단이다.
-  -하나의 요소가 움직여도 다른 요소의 위치가 이동하지 않음
+  - 하나의 요소가 움직여도 다른 요소의 위치가 이동하지 않음<br/>
    (absolute는 당겨서 이동한다.)
->
-
 ```html
 <!DOCTYPE html>
 <html lang="ko">
@@ -240,25 +239,27 @@ content 뒤에 nav가 있다.
 </html>
 ```
 
-![relative](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f60fcf9e-4be1-46d6-9665-a9055dbabe44/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071405Z&X-Amz-Expires=86400&X-Amz-Signature=ca9598bda3007fe6fd517eab99b4fe0a617e5bfba25a04e8212651ef4c8a46b9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![relative](../images/position_4.png)
 
 relative
 
 ### 기준의 정의
 
 1. 움직이는 대상의 position이 relative인 경우
--부모요소가 기준
+    - 부모요소가 기준
 2. 움직이는 대상의 position이 absolute인 경우
--position 속성은 position 속성을 가지는 상위 요소가 기준
--상위 요소 중 position 속성을 가지는 요소가 없는 경우
-document가 기준
+    - position 속성은 position 속성을 가지는 상위 요소가 기준
+    - 상위 요소 중 position 속성을 가지는 요소가 없는 경우
+    document가 기준
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ec2366a-7249-4105-84aa-ee07566b9099/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071414Z&X-Amz-Expires=86400&X-Amz-Signature=4fa872ee43bf4f0daa0660c4f63806115f540891fe3892fe0e3dbc7f8ddd9e78&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](../images/position_5.png)
 
-분홍색 div에 left: 100px를 주면 얘는 position이 존재한다는 거다.
-position: relative 면 부모요소로부터 left 이동
-position: absolute 면 (나를 감싸고 있는 모든 것(상위요소)에 position이 없을 때) 무조건 body 기준
+분홍색 div에 left: 100px를 주면 얘는 position이 존재한다는 거다.<br/>
+position: relative 면 부모요소로부터 left 이동<br/>
+position: absolute 면 (나를 감싸고 있는 모든 것(상위요소)에 position이 없을 때) 무조건 body 기준<br/>
 position이 있는 상위요소(가장 가까운 요소)가 있으면 그거 기준으로 이동
+
+<br/>
 
 > **4.fixed**
 
@@ -266,8 +267,6 @@ position이 있는 상위요소(가장 가까운 요소)가 있으면 그거 기
   2) 스크롤 시에도 처음 고정된 위치에서 보여지는 속성값
   3) margin: auto 사용 불가
   4) 레이어 사용 가능
->
-
 ```html
 <!DOCTYPE html>
 <html lang="ko">
@@ -395,11 +394,13 @@ position이 있는 상위요소(가장 가까운 요소)가 있으면 그거 기
 </html>
 ```
 
-![가장 상단 header는 제자리에 있다.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3107369d-c6ba-47aa-a3f8-72245b10c009/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071427Z&X-Amz-Expires=86400&X-Amz-Signature=9b9d32b895f1d08a5b4a779f73f4b36effa27667f9da0c6142821403a5799e60&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![가장 상단 header는 제자리에 있다.](../images/position_6.png)
 
 가장 상단 header는 제자리에 있다.
 
 *parallax scrolling
+
+<br/>
 
 > **5.sticky**
 
@@ -407,5 +408,4 @@ position이 있는 상위요소(가장 가까운 요소)가 있으면 그거 기
 도달하고서는 fixed 상태
 
 하지만 쓰지마라, IE 하위버전에서 호환안됨.
--script 사용한다.
->
+- script 사용한다.

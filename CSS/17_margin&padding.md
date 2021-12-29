@@ -2,23 +2,21 @@
 작성일시: 2021년 9월 6일 오후 4:19
 
 > **여백 속성**
->
 
 ## margin
-
 1. 바깥쪽 여백(위치)
 2. margin-top / margin-right / margin-bottom / margin-left
-3. margin : top right bottom left
-margin : top right bottom (same right)
-margin : top/bottom right/left
-margin : all
-4. margin : auto
-상하 여백 0, 좌우 여백 동일
+3. margin : top right bottom left<br/>
+margin : top right bottom (same right)<br/>
+margin : top/bottom right/left<br/>
+margin : all<br/>
+4. margin : auto<br/>
+상하 여백 0, 좌우 여백 동일<br/>
 (블럭 요소 가운데 정렬)
 = margin: 0 auto
 
 <aside>
-💡 text-align:center
+💡 text-align: center
   인라인 요소 가운데 정렬
 
 </aside>
@@ -26,7 +24,6 @@ margin : all
 ---
 
 ## padding
-
 1. 안쪽 여백(크기)
 2. margin 사용법과 동일
 
@@ -124,26 +121,22 @@ margin : all
 
 ## box-sizing
 
-![Box Model](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69ebe1bd-5d2d-4374-9365-c9074d76c906/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071250Z&X-Amz-Expires=86400&X-Amz-Signature=aa6c20dec7a20ec081ae739b6544471b9a7d32248cce66aee4b1703fed985344&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Box Model](../images/boxmodel.png)
 
 Box Model
 
 1. **Box Width : 100%**
-
--width: 100% + padding: 100px + border: 100px = 100% + 400px
+  - width: 100% + padding: 100px + border: 100px = 100% + 400px
 
 2. **Box Width : auto**
-
-- width + padding + border = 100%
-여기서 padding과 border가 없으면 width: 100%와 width: auto 똑같음
+  - width + padding + border = 100%<br/>
+  여기서 padding과 border가 없으면 width: 100%와 width: auto 똑같음
 
 3. **box-sizing : border-box**
-
--width + padding + border = width
--width: 80%; padding:100px; border:100px = 80% + 400px
--width: 80%; padding:100px; border:100px; box-sizing:border-box = 80%
+  - width + padding + border = width
+  - width: 80%; padding:100px; border:100px = 80% + 400px
+  - width: 80%; padding:100px; border:100px; box-sizing:border-box = 80%
 
 <aside>
 💡 box-sizing 기본값은 content-box
-
 </aside>

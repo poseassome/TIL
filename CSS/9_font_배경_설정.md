@@ -1,11 +1,10 @@
 # font, 배경 설정
 작성일시: 2021년 8월 10일 오전 1:00
 
-> **font 적용**
+> **font 적용**<Br/>
   구글 폰트 적용시,
   <link> 정보 찾아서 복사해서 붙여넣음
   font-family도
->
 
 ```css
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,7 +20,7 @@
 
 ---
 
-> **배경 적용**
+> **배경 적용**<Br/>
   하단 참고
 >
 

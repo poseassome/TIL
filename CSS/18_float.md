@@ -3,11 +3,11 @@
 
 > **float**
 
-1. 수직 구조의 요소를 수평 구조로 변경
-   -크기와 위치를 조정할 수 있는 요소에 적용
+1. 수직 구조의 요소를 수평 구조로 변경<br/>
+   -크기와 위치를 조정할 수 있는 요소에 적용<br/>
      -> Block 요소
 
-2. 요소의 레벨이 inline-block 형식으로 변경
+2. 요소의 레벨이 inline-block 형식으로 변경<br/>
    -요소레벨을 강제로 바꾸는구나
 
 3. 수평으로 나열될 모든 요소에 float 속성 적용
@@ -18,20 +18,17 @@
 
 6. 위로 이동하면서 생긴 빈 자리에 다른 요소가 이동
 
-7. 자식 요소의 길이합이 부모 요소의 길이보다 길면
-   부모 요소의 길이를 초과하는 요소들이 아래쪽으로 이동
+7. 자식 요소의 길이합이 부모 요소의 길이보다 길면<br/>
+   부모 요소의 길이를 초과하는 요소들이 아래쪽으로 이동<br/>
    (태그 작성 순)
 
 8. 형제와 부모 관계의 요소들끼리만 적용
->
 
 ---
 
 > **clear**
-
 1. float 속성 해제
 2. left / right / both
->
 
 ---
 
@@ -98,20 +95,25 @@
 
 1. float된 content뒤의 content가 이동하지 않음
 
-![clear의 개념:  float으로 생긴 빈공간을 막아서 그 다음 컨텐츠가 이동하지 않음](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7996c9eb-9cad-4cee-a29c-0dc80351b347/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071312Z&X-Amz-Expires=86400&X-Amz-Signature=cbf7a53108ac2ff47ec2f7961f0ad19b13d283483e9a2850da81b73b6a09210b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![clear의 개념:  float으로 생긴 빈공간을 막아서 그 다음 컨텐츠가 이동하지 않음](../images/float.png)
 
-clear의 개념:  float으로 생긴 빈공간을 막아서 그 다음 컨텐츠가 이동하지 않음
+*clear의 개념:  float으로 생긴 빈공간을 막아서 그 다음 컨텐츠가 이동하지 않음*
 
-1. float된 content의 width 합이 전체 width를 넘어가면 넘어간 content는 아래로 내려옴
-2. margin: auto를 사용하기 위해. (float을 사용하면 margin: auto 사용 못함)
-
+2. float된 content의 width 합이 전체 width를 넘어가면 넘어간 content는 아래로 내려옴
+3. margin: auto를 사용하기 위해. (float을 사용하면 margin: auto 사용 못함)
+<Br/>
+<Br/>
 <aside>
-💡 **⭐적용 우선순위**
-position: absolute / fixed **>** float **>** margin: auto (+width, position: relative)
--position의 absolute와 fixed는
+💡 **⭐적용 우선순위⭐**<br/>
+
+```
+position: absolute / fixed > float > margin: auto (+width, position: relative)
+
+- position의 absolute와 fixed는
   float보다 우선수위가 높고,
-                                                      -margin: auto는 반드시 width랑 같이 써야 하고
-                                                        position이 필요하다면 relative를 쓸 수 있다.
+                                    - margin: auto는 반드시 width랑 같이 써야 하고
+                                      position이 필요하다면 relative를 쓸 수 있다.
+```
 
 </aside>
 
@@ -121,11 +123,10 @@ position: absolute / fixed **>** float **>** margin: auto (+width, position: rel
 
 1. 빈 박스를 추가한다.
 
-**.clearfix {clear: both;}**
+**`.clearfix {clear: both;}`**
 
-추가하는 위치는 float되는 요소의 맨 끝에 추가한다.
+추가하는 위치는 float되는 요소의 맨 끝에 추가한다.<Br/>
 이는 브라우저 버전이나 종류 상관없이 사용 가능하지만 불필요한 태그를 추가해야되기에 사용하지 않는다.
->
 
 ```html
 <!DOCTYPE html>
@@ -195,11 +196,11 @@ position: absolute / fixed **>** float **>** margin: auto (+width, position: rel
 
 </html>
 ```
+<br/>
 
-> 2. 가상의 태그를 추가한다.
+2. 가상의 태그를 추가한다.
 
-**#name:after {content: " "}**
->
+**`#name:after {content: " "}`**
 
 ```html
 <!DOCTYPE html>
@@ -271,14 +272,15 @@ position: absolute / fixed **>** float **>** margin: auto (+width, position: rel
 </html>
 ```
 
-> 3. **overflow: hidden** 사용
+<br/>
 
- (조건) 3-1. 반드시 자식요소가 float 상태
-            3-2. 부모요소에는 height 사용 안함
+3. `overflow: hidden` 사용
+
+ (조건)<br/>
+ 3-1. 반드시 자식요소가 float 상태<br/>
+ 3-2. 부모요소에는 height 사용 안함
 
   사용하게되면 float된 아이들 높이를 읽으라는 뜻이 됨.
->
-
 ```html
 <!DOCTYPE html>
 <html lang="ko">

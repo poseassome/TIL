@@ -7,7 +7,6 @@ Box model 외각선의 곡률 지정
 
  - 사용 방법
        border-radius:[length]
-
  - 속성 값
 
 1. length: 곡률의 크기
@@ -17,12 +16,11 @@ Box model 외각선의 곡률 지정
 
 ## box-shadow
 
-: 지정된 요소의 그림자 설정
+: 지정된 요소의 그림자 설정<br/>
 (shadow의 모양이 box이기 때문에 box다.)
 
  - 사용방법
        box-shadow:[dx] [dy] [blur] [spread] [color] [set]
-
  - 속성
 
 1. dx : 그림자의 가로방향 위치
@@ -30,10 +28,8 @@ Box model 외각선의 곡률 지정
 3. blur : 흐려짐 정도
 4. spread : 번짐 정도
 5. set : 그림자의 형태
-
-          outset : 요소 바깥쪽으로 그림자가 떨어짐 (기본값)
-
-    inset : 요소 안쪽으로 그림자가 떨어짐
+    - outset : 요소 바깥쪽으로 그림자가 떨어짐 (기본값)
+    - inset : 요소 안쪽으로 그림자가 떨어짐
 
 
 ```css
@@ -74,7 +70,6 @@ overflow되는 text의 표시를 지정
 
  - 사용방법
     text-overflow:속성값
-
  - 속성
 
 1. clip : 지정된 영역의 크기로 잘라낸다.
@@ -105,7 +100,7 @@ body {
     }
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59784580-506d-4a1f-a080-3d6d7be06eed/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T071029Z&X-Amz-Expires=86400&X-Amz-Signature=4099db7164f905b32f78bad463cfb82aba81c90a6be15bf62574542a6afbe51f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](../images/css_4_1.png)
 
 <aside>
 💡 text-overflow는 overflow와 whtie-space와 같이 사용한다.
