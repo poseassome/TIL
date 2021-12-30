@@ -42,6 +42,9 @@
 - [Element 적용 우선순위](./CSS/16_ElementLevel.md)
 - [favicon](./CSS/15_favicon.md)
 
+## Sass
+- [Sass 기본](./SASS/sass_개요.md)
+
 ## JAVASCRIPT
 - [Script 개요 및 적용방법](./JAVASCRIPT/1_Script_개요_및_적용.md)
 - [자료형 (Data Type)](./JAVASCRIPT/2_자요형_(DataType).md)
@@ -64,6 +67,8 @@
 - [회원가입 `<form>` 기본 작성](./JAVASCRIPT/19_회원가입_폼_작성(1)-기본.md)
 - [회원가입 `<form>` 작성-요소별(1)](./JAVASCRIPT/20_회원가입_폼_작성(2)-요소별.md)
 - [회원가입 `<form>` 작성-요소별(2)](./JAVASCRIPT/21_회원가입_폼_작성(3)-요소별.md)
+- [use strict](./JAVASCRIPT/use_strict.md)
+- [전역 스코프, 지역 스코프(함수 스코프, 블럭 스코프)](./JAVASCRIPT/scope.md)
 
 ## JQUERY
 - [jquery 개요 및 적용](./JQUERY/1_jquery_개요_및_적용.md)
