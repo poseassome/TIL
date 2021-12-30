@@ -68,7 +68,10 @@
 - [회원가입 `<form>` 작성-요소별(1)](./JAVASCRIPT/20_회원가입_폼_작성(2)-요소별.md)
 - [회원가입 `<form>` 작성-요소별(2)](./JAVASCRIPT/21_회원가입_폼_작성(3)-요소별.md)
 - [use strict](./JAVASCRIPT/use_strict.md)
-- [전역 스코프, 지역 스코프(함수 스코프, 블럭 스코프)](./JAVASCRIPT/scope.md)
+- #### 스코프
+    - [전역 스코프, 지역 스코프(함수 스코프, 블럭 스코프)](./JAVASCRIPT/scope.md)
+    - [호이스팅이란](./JAVASCRIPT/hoisting.md)
+    - [즉시 실행 함수(IIFE)](./JAVASCRIPT/IIFE.md)
 
 ## JQUERY
 - [jquery 개요 및 적용](./JQUERY/1_jquery_개요_및_적용.md)
