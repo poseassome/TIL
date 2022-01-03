@@ -72,6 +72,8 @@
     - [전역 스코프, 지역 스코프(함수 스코프, 블럭 스코프)](./JAVASCRIPT/scope.md)
     - [호이스팅이란](./JAVASCRIPT/hoisting.md)
     - [즉시 실행 함수(IIFE)](./JAVASCRIPT/IIFE.md)
+- [HTTP, Ajax, XMLHttpRequest, fetch, JSON](./JAVASCRIPT/HTTP,Ajax,XMLHttpRequest,fetch,json.md)
+- [this](./JAVASCRIPT/this.md)
 
 ## JQUERY
 - [jquery 개요 및 적용](./JQUERY/1_jquery_개요_및_적용.md)
@@ -115,6 +117,7 @@
   - [sml Parsing error(2)](./PHP/xml_parsing.md)
 
 ## REACT
+- [React 사용하는 이유](./REACT/React_탄생.md)
 - [React 기초](./REACT/React_기초.md)
 - [State 사용-counter](./REACT/State_사용_counter.md)
 - [React 사용-unit converter](./REACT/State_사용_unitconversion.md)
