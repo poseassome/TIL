@@ -1,6 +1,21 @@
 # Today I Learned
 >학습한 내용, 새로 알게된 내용, 헤맨 내용 등<br/>
 >개발 관련 기록 쌓기
+
+### CLICK 👇
+[![Badge](https://img.shields.io/badge/HTML-F06529?style=flat-square)](#html)
+[![Badge](https://img.shields.io/badge/CSS-264de4?style=flat-square)](#css)
+[![Badge](https://img.shields.io/badge/Sass-cc6699?style=flat-square)](#sass)
+[![Badge](https://img.shields.io/badge/JAVASCRIPT-f0DB4f?style=flat-square)](#javascript)
+[![Badge](https://img.shields.io/badge/JQUERY-0868ac?style=flat-square)](#jquery)
+[![Badge](https://img.shields.io/badge/DATABASE-284b63?style=flat-square)](#database)
+[![Badge](https://img.shields.io/badge/PHP-474aba?style=flat-square)](#php)
+[![Badge](https://img.shields.io/badge/REACT-61dbfb?style=flat-square)](#react)
+[![Badge](https://img.shields.io/badge/BOOTSTRAP-563d7c?style=flat-square)](#bootstrap)
+[![Badge](https://img.shields.io/badge/WORDPRESS-00749c?style=flat-square)](#wordpress)
+
+[![Badge](https://img.shields.io/badge/JS_ALGORITHM-8187dc?style=flat-square)](#js-algorithm)
+[![Badge](https://img.shields.io/badge/GIT-f1502f?style=flat-square)](#git)
 ***
 ## HTML
 - [HTML 배경지식](./HTML/5_HTML_배경지식.md)
@@ -148,13 +163,6 @@
 - [Progress](./BOOTSTRAP/Progress.md)
 - [참고 사이트](./BOOTSTRAP/usefulsite.md)
 
-## JS ALGORITHM
-- [Javascript 알고리즘 문제풀이](https://github.com/poseassome/JS_Algorithm)
-
-## GIT
-- [Git 기본](./GIT/git_기본.md)
-- [Github 연결](./GIT/github.md)
-
 ## WORDPRESS
 - [WordPress 기본](./WORDPRESS/WordPress_기본.md)
 
@@ -162,4 +170,18 @@
 - [디자인 슬라이스](./Website/1_디자인화면_쪼개기.md)
 - [코딩 순서정리](./Website/2_코딩_순서.md)
 - [기타 참고자료](./Website/3_참고자료.md)
+
+## JS ALGORITHM
+- [Javascript 알고리즘 문제풀이](https://github.com/poseassome/JS_Algorithm)
+- [Programmers 문제풀이](https://github.com/poseassome/programmers)
+
+## GIT
+- [Git 기본](./GIT/git_기본.md)
+- [Github 연결](./GIT/github.md)
+
+<div align="right">
+
+[![Badge](https://img.shields.io/badge/TO%20THE%20PAGE%20TOP-d7e3fc?style=flat)](#today-i-learned)
+</div>
+
 ***
