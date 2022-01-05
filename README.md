@@ -89,6 +89,7 @@
     - [즉시 실행 함수(IIFE)](./JAVASCRIPT/IIFE.md)
 - [HTTP, Ajax, XMLHttpRequest, fetch, JSON](./JAVASCRIPT/HTTP,Ajax,XMLHttpRequest,fetch,json.md)
 - [this](./JAVASCRIPT/this.md)
+- [prototype](./JAVASCRIPT/prototype.md)
 
 ## JQUERY
 - [jquery 개요 및 적용](./JQUERY/1_jquery_개요_및_적용.md)
