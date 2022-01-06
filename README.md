@@ -56,6 +56,7 @@
 - [transition/ animation](./CSS/14_transition&animation.md)
 - [Element 적용 우선순위](./CSS/16_ElementLevel.md)
 - [favicon](./CSS/15_favicon.md)
+- [Display: Flex](./CSS/displayFlex.md)
 
 ## Sass
 - [Sass 기본](./SASS/sass_개요.md)
