@@ -91,6 +91,7 @@
 - [HTTP, Ajax, XMLHttpRequest, fetch, JSON](./JAVASCRIPT/HTTP,Ajax,XMLHttpRequest,fetch,json.md)
 - [this](./JAVASCRIPT/this.md)
 - [prototype](./JAVASCRIPT/prototype.md)
+- [async, defer](./JAVASCRIPT/async,defer.md)
 
 ## JQUERY
 - [jquery 개요 및 적용](./JQUERY/1_jquery_개요_및_적용.md)
