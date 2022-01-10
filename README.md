@@ -177,6 +177,7 @@
 - [디자인 슬라이스](./Website/1_디자인화면_쪼개기.md)
 - [코딩 순서정리](./Website/2_코딩_순서.md)
 - [기타 참고자료](./Website/3_참고자료.md)
+- [모바일 웹 리디렉션](./Website/mobile_redirection.md)
 
 ## JS ALGORITHM
 - [Javascript 알고리즘 문제풀이](https://github.com/poseassome/JS_Algorithm)
