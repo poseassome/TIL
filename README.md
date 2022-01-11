@@ -90,7 +90,9 @@
     - [즉시 실행 함수(IIFE)](./JAVASCRIPT/IIFE.md)
 - [HTTP, Ajax, XMLHttpRequest, fetch, JSON](./JAVASCRIPT/HTTP,Ajax,XMLHttpRequest,fetch,json.md)
 - [this](./JAVASCRIPT/this.md)
-- [prototype](./JAVASCRIPT/prototype.md)
+- #### Prototype
+    - [prototype](./JAVASCRIPT/prototype.md)
+    - [prototype 확장](./JAVASCRIPT/prototype확장.md)
 - [async, defer](./JAVASCRIPT/async,defer.md)
 - #### Callback
     - [콜백함수(1)_동기,비동기 / 콜백체인](./JAVASCRIPT/callback_1.md)
