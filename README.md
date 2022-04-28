@@ -156,6 +156,7 @@
 - [MovieApp만들기(1)](./REACT/MovieApp만들기(1).md)
 - [MovieApp만들기(2)](./REACT/MovieApp만들기(2).md)
 - [github-page로 배포하기](./REACT/github-page배포.md)
+- [Router 접근 제한](./REACT/Router접근제한.md)
 - [Redux 사용 이유](./REACT/Redux사용이유.md)
 - [글로벌 상태 관리와 Redux](./REACT/Redux글로벌상태관리.md)
 
